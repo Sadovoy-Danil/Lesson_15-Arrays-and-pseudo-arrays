@@ -5,4 +5,4 @@
 <br>**Для того, чтобы удалить последний элемент в массиве, надо: _arr.pop()_**<br>
 **А для того, чтобы добавить элемент в массив, надо написать: _arr.push()_**
 
-<img src = 'img/Objects-Arrays.jpg'>
+<br><img src = 'img/Objects-Arrays.jpg'>
