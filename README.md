@@ -15,8 +15,6 @@
 
 > _arr.forEach(function(item, i, arr) {});_
 
-**&nbsp;&nbsp;&nbsp;&nbsp;1) item — значение, элемент**
-
-**&nbsp;&nbsp;&nbsp;&nbsp;2) i — индекс, номер**
-
+**&nbsp;&nbsp;&nbsp;&nbsp;1) item — значение, элемент**<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;2) i — индекс, номер**<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;3) arr — массив**
